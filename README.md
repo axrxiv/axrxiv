@@ -6,6 +6,7 @@
   c+h enc , w2i preferred
  <p align="center">
 <p align="center">
-<img width="483" height="517" alt="image" src="https://github.com/user-attachments/assets/ed5b653f-721d-4429-b61f-9b05178e1e8d" />
+<img width="300" height="282" alt="image" src="https://github.com/user-attachments/assets/106abf22-207a-472b-8a8f-6edc815f151b" />
+
 <p align="center">
 
