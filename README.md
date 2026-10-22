@@ -10,6 +10,7 @@ dnc , slight inspo allowed
 
 <p align="center">
 no dni just don't be weird
+drama thin ice ok? ok
 
 <p align="center">
 
